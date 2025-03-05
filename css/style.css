@@ -245,8 +245,8 @@ footer {
   color: rgb(244, 250, 250);
 }
 .social-media-icon:hover{
-  background: #0621ec;
-  color: #040404;
+ background: #0621ec;
+  color: #fd0000;
 }
 
 .social-media-icon i {
